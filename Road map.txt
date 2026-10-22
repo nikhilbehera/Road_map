@@ -1,0 +1,209 @@
+                 YOUR STACK
+
+Frontend
+├── HTML
+├── CSS
+├── JavaScript
+├── TypeScript
+├── React
+└── Tailwind
+
+Backend
+├── Python
+├── FastAPI
+├── REST APIs
+└── Authentication
+Routes
+HTTP methods
+Request
+Response
+JSON
+Status codes
+Pydantic
+Validation
+CRUD
+Dependency Injection
+Middleware
+Error handling
+
+
+
+Database
+├── SQL
+└── PostgreSQL
+SQL
+ ↓
+PostgreSQL
+ ↓
+Database design
+ ↓
+Relationships
+ ↓
+Primary Key
+ ↓
+Foreign Key
+ ↓
+JOIN
+ ↓
+Indexes
+ ↓
+Transactions
+
+
+
+Development
+├── Git
+├── GitHub
+├── CLI
+└── Linux basics
+Git
+GitHub
+Branches
+Merge
+Pull Request
+Conflict resolution
+.gitignore
+CLI
+Linux basics
+
+
+
+Testing
+└── Pytest
+
+Deployment
+├── Docker
+├── AWS
+└── CI/CD
+
+AI
+├── LLM APIs
+├── RAG
+├── Vector databases
+└── AI agents
+
+DSA
+└── Python
+Variables
+Data Types
+Conditions
+Loops
+Functions
+Lists / Arrays
+Dictionaries / Objects
+String manipulation
+Exception handling
+OOP
+Modules / Packages
+File handling
+
+
+Arrays
+Strings
+Hash Maps
+Stack
+Queue
+Linked List
+Recursion
+Sorting
+Searching
+Trees
+Graphs
+
+
+
+Authentication + Security:->
+
+Authentication
+Authorization
+Password hashing
+JWT
+Access tokens
+Refresh tokens
+CORS
+HTTPS
+Environment variables
+SQL Injection
+XSS
+CSRF
+
+
+HTTP + REST APIs:->
+HTTP
+HTTPS
+GET
+POST
+PUT
+PATCH
+DELETE
+
+200
+201
+400
+401
+403
+404
+500
+
+Headers
+Query parameters
+Path parameters
+Request body
+JSON
+Authentication
+
+
+Testing:->
+Unit testing
+Integration testing
+API testing
+Test fixtures
+Mocking
+
+
+Docker:->
+Docker
+Dockerfile
+Images
+Containers
+Docker Compose
+
+
+Cloud:->
+EC2
+S3
+IAM
+RDS
+VPC basics
+CloudWatch
+ECS
+Lambda
+API Gateway
+
+DevOps / CI/CD:->
+CI/CD
+GitHub Actions
+Docker
+Deployment
+Environment variables
+Basic monitoring
+
+(In The End)
+AI Integration:->
+Python
+ ↓
+LLM APIs
+ ↓
+Prompting
+ ↓
+Structured outputs
+ ↓
+Function/tool calling
+ ↓
+Embeddings
+ ↓
+Vector databases
+ ↓
+RAG
+ ↓
+AI agents
